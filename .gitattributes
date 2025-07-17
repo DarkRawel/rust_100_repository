@@ -1,0 +1,5 @@
+**/target/** linguist-vendored
+Makefile linguist-detectable=false
+Cargo.lock linguist-detectable=false
+*.toml linguist-detectable=false
+*.rs linguist-language=Rust
